@@ -1,6 +1,4 @@
 # PADUA_Midterm_Exam_Application
-=======
-# PADUA_Midterm_Exam_Application
 
 ## About Midterm Exam Application
 
@@ -18,5 +16,5 @@ The following table displays a list of restaurants in Baguio City, along with de
 | **Choco-late de Batirol**       | Camp John Hay, Baguio City                     | Filipino        | 4.5    | ₱150–300    | Hot chocolate, traditional Filipino dishes.|
 | **The Olive Cafe**              | Baguio Country Club, Baguio City               | Mediterranean    | 4.3    | ₱600–900    | Healthy Mediterranean food, relaxing ambiance. |
 | **Vizco’s Restaurant and Cake Shop** | Session Road, Baguio City                 | Café, Filipino  | 4.2    | ₱150–300    | Famous for strawberry shortcake, cozy vibe.|
-git add .
+
 
